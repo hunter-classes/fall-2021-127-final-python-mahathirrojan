@@ -1,10 +1,10 @@
 * Fall 2021 - 127 - Final Exam - Python - in class
 
-* Last Name: 
+* Last Name: Rojan 
 
-* First Name: 
+* First Name: Mahathir 
 
-* GitHub username: 
+* GitHub username: @mahathirrojan 
 
 * Notes:
 
